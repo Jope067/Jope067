@@ -1,6 +1,6 @@
 ## SALVE 👋
 
-meu nome é João Pedro
+
 **Jope067/Jope067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
+Meu nome é João Pedro
