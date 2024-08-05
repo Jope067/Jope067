@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- # Olá! Eu sou [] 👋
+- # Olá! Eu sou [Joao Pedro] 👋
 
 
 ## Sobre mim
